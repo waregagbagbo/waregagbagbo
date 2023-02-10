@@ -9,13 +9,15 @@
 
 - 🔭 I’m currently working on [Medicine-Dose-Tracker](https://github.com/waregagbagbo/Medicine-Dose-Tracker-)
 
+- 🌱 I’m currently learning **React**
+
 - 👨‍💻 All of my projects are available at [https://gabel.vercel.app/](https://gabel.vercel.app/)
 
 - 📝 I regularly write articles on [#](#)
 
-- 💬 Ask me about **Django**
+- 💬 Ask me about **Django,Python, SQL**
 
-- 📫 How to reach me **gabelgbagbo@gmail.com**
+- 📫 How to reach me **@gabelgbagbo@gmail.com**
 
 - 📄 Know about my experiences [#](#)
 
