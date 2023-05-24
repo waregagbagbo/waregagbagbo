@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gab </h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">A passionate software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waregagbagbo&label=Profile%20views&color=0e75b6&style=flat" alt="waregagbagbo" /> </p>
 
@@ -7,13 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/gumbaruschool" target="blank"><img src="https://img.shields.io/twitter/follow/gumbaruschool?logo=twitter&style=for-the-badge" alt="gumbaruschool" /></a> </p>
 
-- 🔭 I’m currently working on [Medicine-Dose-Tracker](https://github.com/waregagbagbo/Medicine-Dose-Tracker-)
-
-- 🌱 I’m currently learning **React**
-
 - 👨‍💻 All of my projects are available at [https://gabel.vercel.app/](https://gabel.vercel.app/)
-
-- 📝 I regularly write articles on [#](#)
 
 - 💬 Ask me about **Django,Python, SQL**
 
