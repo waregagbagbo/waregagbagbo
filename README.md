@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Django,Python, SQL**
 
-- 📫 How to reach me **@gabelgbagbo@gmail.com**
+- 📫 How to reach me ****
 
 - 📄 Know about my experiences [#](#)
 
