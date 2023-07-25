@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/gumbaruschool" target="blank"><img src="https://img.shields.io/twitter/follow/gumbaruschool?logo=twitter&style=for-the-badge" alt="gumbaruschool" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://gabel.vercel.app/](https://gabel.vercel.app/)
-
 - 💬 Ask me about **Django,Python, SQL**
 
 - 📫 How to reach me ****
