@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me
 
 ```html
-I'm a Backend Engineering learner at the <bold>ALX Software Engineering Program</bold>. 
+I'm a Backend Engineering learner at the **ALX Software Engineering Program**. 
 My journey into tech started with a strong desire to build tools and solutions that impact lives. 
 I chose software engineering to master problem-solving and system design, through which;
 
