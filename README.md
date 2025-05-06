@@ -27,12 +27,15 @@ I chose software engineering to master problem-solving and system design, throug
 
 ✍️ Currently documenting my learning and building in public 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=waregagbagbo&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=waregagbagbo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=waregagbagbo&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=waregagbagbo&show_icons=true&theme=radical" alt="Wareg's GitHub Stats"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=waregagbagbo&theme=radical" alt="GitHub Streak"/> </div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+[![](https://visitcount.itsvg.in/api?id=waregagbagbo&icon=8&color=0)](https://visitcount.itsvg.in)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waregagbagbo&show_icons=true&locale=en&layout=compact" alt="waregagbagbo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waregagbagbo&show_icons=true&locale=en" alt="waregagbagbo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waregagbagbo&" alt="waregagbagbo" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
