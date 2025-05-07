@@ -25,16 +25,16 @@ I'm a Backend Engineering learner at the **ALX Software Engineering Program**.
 My journey into tech started with a strong desire to build tools and solutions that impact lives. 
 I chose software engineering to master problem-solving and system design, through which;
 
-🌱 I’m currently learning Python, Django, and JavaScript
+🌱 I’m currently/always learning Python, Django,JavaScript and other Tech stuff.
 
-💻 I love building backend systems, APIs, and tools that make things work behind the scenes
+💻 I love building backend systems, APIs, and tools that make things work behind the scenes.
 
-🔭 I’m currently working on backend-focused portfolio projects to demonstrate my skills
+🔭 I’m currently working on backend-focused portfolio projects to demonstrate my skills.
 
-🎯 My ultimate goal is to become a world-class Backend Engineer
+🎯 My ultimate goal is to become a world-class Backend Engineer.
 
-💬 Ask me about Python, REST APIs, Flask/Django, or async programming
+💬 Ask me about Python, REST APIs, Flask/Django, or async programming.
 
-🧠 Inspired by: solving real-world problems with clean, scalable code
+🧠 Inspired by: solving real-world problems with clean, scalable code.
 
-✍️ Currently documenting my learning and building in public 
+✍️ Currently documenting my learning and building in public.
