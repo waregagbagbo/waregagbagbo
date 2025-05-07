@@ -27,7 +27,7 @@ I chose software engineering to master problem-solving and system design, throug
 
 ✍️ Currently documenting my learning and building in public 
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=waregagbagbo&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=waregagbagbo&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=waregagbagbo&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
