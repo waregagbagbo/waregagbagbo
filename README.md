@@ -6,9 +6,21 @@
 
 ---
 
+
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=waregagbagbo&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<span>
+![](https://nirzak-streak-stats.vercel.app/?user=waregagbagbo&theme=dark&hide_border=false)</span>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=waregagbagbo&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=waregagbagbo&icon=8&color=0)](https://visitcount.itsvg.in)
+
+
 ### 👨‍💻 About Me
 
-```html
 I'm a Backend Engineering learner at the **ALX Software Engineering Program**. 
 My journey into tech started with a strong desire to build tools and solutions that impact lives. 
 I chose software engineering to master problem-solving and system design, through which;
@@ -26,14 +38,3 @@ I chose software engineering to master problem-solving and system design, throug
 🧠 Inspired by: solving real-world problems with clean, scalable code
 
 ✍️ Currently documenting my learning and building in public 
-
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=waregagbagbo&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=waregagbagbo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=waregagbagbo&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=waregagbagbo&icon=8&color=0)](https://visitcount.itsvg.in)
